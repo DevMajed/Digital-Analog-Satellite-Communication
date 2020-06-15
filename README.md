@@ -1,1 +1,1 @@
-# Digital-Analog-Communication
+# Digital, Analog, and Satellite Communication projects 
